@@ -6,4 +6,4 @@ permalink: /notes/
 
 # Notes
 
-* [One-Dimensional Numerical Integration](./1d-numerical_integrals.html)
+* [One-Dimensional Numerical Integration](./notes/1d-numerical_integrals.html)
